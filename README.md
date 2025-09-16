@@ -9,3 +9,5 @@ It serves as a record of my problem-solving journey and helps track progress in 
 | Difficulty | Problem + Solution |
 |------------|---------|
 | Easy       | [Two Sum](https://github.com/belikedeep/leetcode-sync/tree/main/1-two-sum) |
+| Medium       | [Add Two Numbers](https://github.com/belikedeep/leetcode-sync/tree/main/2-add-two-numbers) |
+| Medium       | [Longest Substring Without Repeating Characters](https://github.com/belikedeep/leetcode-sync/tree/main/3-longest-substring-without-repeating-characters) |
